@@ -6,8 +6,8 @@
   --background-color-light: #eef3f6;
   --background-color-dark: white;
   
-  --font-family: "sans-serif"
-  --box-shadow:  0px 2px 8px rbga(0,0,0, 0.05)
+  --font-family: "sans-serif";
+  --box-shadow:  0px 2px 8px rbga(0,0,0, 0.05);
 
 }
 html,
